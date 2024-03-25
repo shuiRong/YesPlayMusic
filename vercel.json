@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://netease-cloud-music-api-woad-nu-21.vercel.app/:match*"
+    }
+  ]
+}
